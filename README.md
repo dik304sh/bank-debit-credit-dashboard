@@ -47,7 +47,7 @@ and overall credit-debit balance — supporting data-driven decisions.
 ---
 
 ## Dashboard Preview
-![Bank Debit & Credit Dashboard](./80890327-ec74-43d2-b929-e42299f283c9.png)
+https://github.com/dik304sh/bank-debit-credit-dashboard/blob/main/Bank%20Debit%20%26%20Credit%20Dashboard.jpeg
 
 ---
 
