@@ -1,71 +1,91 @@
-# bank-debit-credit-dashboard
-Power BI dashboard analyzing bank debit and credit transactions to uncover key financial insights, top customers, and branch performance.
+# 🏦 Bank Debit & Credit Dashboard
 
-# Bank Debit & Credit Dashboard
-
-## Project Overview
-This Power BI dashboard provides a detailed analysis of bank debit and credit transactions to uncover key financial insights.  
-It highlights total debit and credit amounts, top customers, branch performance, and transaction trends across months.
+This project provides a detailed analysis of bank debit, credit, net transactions, branch performance, and customer behavior using an interactive Power BI dashboard.
 
 ---
 
-## Purpose
-To help banks and financial teams analyze transactional data and identify patterns in customer behavior, branch performance,  
-and overall credit-debit balance — supporting data-driven decisions.
+## 1. 🎯 Project Objective
+- Analyze total debit and credit trends  
+- Understand net transaction performance  
+- Identify top customers by transaction count  
+- Evaluate branch-wise debit, credit & net performance  
+- Analyze banks contributing highest transaction amounts  
+- Study trends in transaction methods and monthly balances  
 
 ---
 
-## Tech Stack
-- **Tool:** Power BI  
-- **Data Source:** Bank Transaction Dataset (CSV)  
-- **Skills Used:**  
-  - Data Cleaning & Transformation  
-  - Data Modeling  
-  - DAX Calculations  
-  - KPI & Dashboard Design  
+## 2. 📂 Dataset Information
+- **Source:** Bank Transaction Dataset  
+- **Data Type:** Debit, credit & branch-level transaction data  
+- **Includes:**  
+  - Customer details  
+  - Branch information  
+  - Transaction method  
+  - Bank names  
+  - Monthly transaction amounts  
 
 ---
 
-## Key Insights
+## 3. 🧹 Data Preparation
+Performed in **Power BI**:
+
+- Cleaned missing values  
+- Corrected data types  
+- Created measures using DAX:
+  - Total Debit Amount  
+  - Total Credit Amount  
+  - Net Transaction  
+  - Total Transaction Count  
+  - Credit to Debit Ratio  
+- Added calculated columns for better segmentation  
+
+📸 *Dataset:*  
+(Upload and add your dataset link)
+
+---
+
+## 4. 🧩 Data Modeling
+- Used DAX measures for KPIs and calculated insights  
+
+📸 *Data Model:*  
+(Add your data model screenshot link)
+
+---
+
+## 5. 📊 Dashboard Features
+
+### 🔹 KPI Summary
 - **Total Debit Amount:** 127.29M  
 - **Total Credit Amount:** 127.60M  
 - **Net Transaction:** 318.12K  
-- **Credit-to-Debit Ratio:** 1.00  
+- **Credit to Debit Ratio:** 1.00  
 - **Total Transaction Count:** 100K  
 
----
-
-## Dashboard Features
-- KPIs for Debit, Credit, and Net Transaction  
+### 🔹 Visuals Included
 - Top 5 Customers by Total Transaction  
-- Branch-wise Debit, Credit & Net Transaction Breakdown  
-- Transaction Method Distribution (Debit Card, Credit Card, Bank Transfer)  
-- Monthly Trend Analysis of Debit vs. Credit  
-- “Reset Filters” button for easy navigation  
-- Clean, color-coded visuals for clear understanding  
+- Transaction Method Breakdown  
+- Month-wise Credit & Debit Trend  
+- Net Transaction by Branch  
+- Credit & Debit Amount by Branch  
+- Sum of Amount by Bank Name  
+- Branch Filters & Slicers  
+
+📸 *Dashboard Screenshot:*  
+(Upload to GitHub → add link)
 
 ---
 
-## Dashboard Preview
-https://github.com/dik304sh/bank-debit-credit-dashboard/blob/main/Bank%20Debit%20%26%20Credit%20Dashboard.jpeg
+## 6. 💡 Key Insights
+- Credit and Debit values are almost equal → stable financial flow  
+- East Branch shows the **highest net positive** transaction  
+- Main Branch shows the **highest net negative** transaction  
+- Kotak Mahindra Bank contributes the highest transaction amount  
+- Balanced 33% distribution among Debit Card, Credit Card & Bank Transfer  
 
 ---
 
-## Project Highlights
-- Designed a clean and interactive financial dashboard using Power BI  
-- Built custom DAX measures for KPIs like Total Debit, Credit, and Net Transactions  
-- Added user-friendly filters for Bank Name, Month, and Transaction Type  
-- Helped identify top-performing branches and high-value customers  
+## 7. 🛠️ Tech Stack
+- **Tool:** Power BI  
+- **Techniques:** DAX, Data Modeling, ETL  
+- **Visuals:** Bar, Pie, Line, Matrix, Treemap  
 
----
-
-## Outcome
-The dashboard enables banking professionals to monitor overall performance,  
-detect transaction trends, and make data-backed business decisions efficiently.
-
----
-
-## Author
-**Diksha Badad**  
-📧 dikshabadad04@gmail.com  
-🔗 https://www.linkedin.com/in/diksha-badad/
