@@ -40,16 +40,12 @@ Performed in **Power BI**:
 - Added calculated columns for better segmentation  
 
 📸 *Dataset:*  
-(Upload and add your dataset link)
+https://github.com/dik304sh/Bank-Debit-Credit-Dashboard/blob/main/Debit%20and%20Credit%20banking_data.xlsx
 
 ---
 
 ## 4. 🧩 Data Modeling
 - Used DAX measures for KPIs and calculated insights  
-
-📸 *Data Model:*  
-(Add your data model screenshot link)
-
 ---
 
 ## 5. 📊 Dashboard Features
