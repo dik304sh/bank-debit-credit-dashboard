@@ -67,7 +67,7 @@ https://github.com/dik304sh/Bank-Debit-Credit-Dashboard/blob/main/Debit%20and%20
 - Branch Filters & Slicers  
 
 📸 *Dashboard Screenshot:*  
-(Upload to GitHub → add link)
+https://github.com/dik304sh/Bank-Debit-Credit-Dashboard/blob/main/Bank%20Debit%20%26%20Credit%20Dashboard.jpeg
 
 ---
 
